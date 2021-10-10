@@ -1,4 +1,4 @@
-package com.trungbq2004110026.tuan04;
+package com.trungbq2004110026.tuan04.Lab4;
 
 import java.util.ArrayList;
 import java.util.Collections;
