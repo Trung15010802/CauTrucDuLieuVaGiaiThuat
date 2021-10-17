@@ -1,5 +1,6 @@
 package com.trungbq2004110026.tuan04.BaiTapThem;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
@@ -11,10 +12,12 @@ public class NhanVienTestDrive {
         NhanVien nhanVien[] = new NhanVien[soNhanVien];
         for(int i = 0;i < soNhanVien;i++){
             nhanVien[i] = new NhanVien();
-            System.out.printf(">>Nhập thông tin xe thứ %d: ",i+1 );           
+            System.out.printf(">>Nhập thông tin nhân viên thứ %d: ",i+1 );           
             nhanVien[i].nhapThongTin();
         }
-        List <NhanVien> list =  Arrays.asList(nhanVien);
+       // List <NhanVien> list =  Arrays.asList(nhanVien);
+        List<NhanVien> list = new ArrayList<NhanVien>(Arrays.asList(nhanVien));
+
         //Nhập thêm nhân viên
         System.out.println("Thêm nhân viên : ");
         while(true){

@@ -11,12 +11,8 @@ public class Lab4bai3 {
     static void nhap(){
         while(true){
             SanPham sanPham = new SanPham();
-            System.out.print("Nhập tên sản phẩm: ");
-            sanPham.ten = sc.nextLine();
-            System.out.print("Nhập giá sản phẩm: ");
-            sanPham.donGia = sc.nextDouble();
+            sanPham.nhapThongTin();
             list.add(sanPham);
-            sc.nextLine();
             System.out.print("Nhập thêm (y/n)?: ");
             if(sc.nextLine().equals("n"))
                 break;
@@ -24,8 +20,7 @@ public class Lab4bai3 {
     }
     static void xuat(){
         for (SanPham a : list){
-            System.out.println("Tên sản phẩm: " +a.ten);
-            System.out.println("Giá sản phẩm: "+a.donGia);
+            a.xuatThongTin();
         }
     }
     static void sapXepGiamDan(){

@@ -1,13 +1,14 @@
-package com.trungbq2004110026.tuan04.Lab4;
+package com.trungbq2004110026.tuan05;
 
 import java.util.Scanner;
 
 public class SanPham {
     String ten;
     double donGia;
-
+    int soLuong;
     public SanPham() {
     }
+
 
     Scanner sc = new Scanner(System.in);
 
