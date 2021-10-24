@@ -1,0 +1,210 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SVGDTestDrive",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan05.SVGDTestDrive",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab1Bai1",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan01.Lab1Bai1",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab1Bai2",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan01.Lab1Bai2",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab1Bai3",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan01.Lab1Bai3",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab1Bai4",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan01.Lab1Bai4",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2Bai1",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan02.Lab2Bai1",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2Bai2",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan02.Lab2Bai2",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2Bai3",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan02.Lab2Bai3",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2Bai4",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan02.Lab2Bai4",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch CowTestDrive",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan03.BaiTapThem.CowTestDrive",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch MayTinhTestDrive",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan03.BaiTapThem.MayTinhTestDrive",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch NhanVienTestDrive",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan03.BaiTapThem.NhanVienTestDrive",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch SachTestDrive",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan03.BaiTapThem.SachTestDrive",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch TaiKhoanTestDrive",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan03.BaiTapThem.TaiKhoanTestDrive",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch XeTestDrive",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan03.BaiTapThem.XeTestDrive",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab3Bai1",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan03.Lab3.Lab3Bai1",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab3Bai2",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan03.Lab3.Lab3Bai2",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab3Bai3",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan03.Lab3.Lab3Bai3",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab3Bai4",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan03.Lab3.Lab3Bai4",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab3Bai5",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan03.Lab3.Lab3Bai5",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch NhanVienTestDrive(1)",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan04.BaiTapThem.NhanVienTestDrive",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch XeTestDrive(1)",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan04.BaiTapThem.XeTestDrive",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab4Bai1",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan04.Lab4.Lab4Bai1",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab4Bai2",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan04.Lab4.Lab4Bai2",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab4bai3",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan04.Lab4.Lab4bai3",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch SVGD",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan05.SVGD",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch SanPhamTestDrive",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan06.SanPhamTestDrive",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch MySingleLinkedListTestDrive",
+            "request": "launch",
+            "mainClass": "com.trungbq2004110026.tuan07.MySingleLinkedListTestDrive",
+            "projectName": "CauTrucDuLieuVaGiaiThuat_2bdb82b1"
+        }
+    ]
+}

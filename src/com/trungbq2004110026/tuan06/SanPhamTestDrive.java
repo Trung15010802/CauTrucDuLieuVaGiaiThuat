@@ -1,4 +1,4 @@
-package com.trungbq2004110026.tuan05;
+package com.trungbq2004110026.tuan06;
 
 import java.util.Scanner;
 public class SanPhamTestDrive {
