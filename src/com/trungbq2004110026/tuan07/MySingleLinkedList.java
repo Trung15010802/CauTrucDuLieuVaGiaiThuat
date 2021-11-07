@@ -80,10 +80,13 @@ public class MySingleLinkedList {
             removeHead();
             return;
         }
-        while(current.next.next != null){
+        while(current != null){
+            if(current.next == tail){
+                current.next = null;
+                return;
+            }
             current = current.next;
         }
-        current.next = null;
     }
 
     public void remove(int key) { // Hàm xoá thông tin một phần tử
