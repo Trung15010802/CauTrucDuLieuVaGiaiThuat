@@ -7,7 +7,7 @@ public class MySingleLinkedListTestDrive {
         mySingleLinkedList.addNode(2);
         mySingleLinkedList.addNode(3);
         mySingleLinkedList.addNode(4);
-        mySingleLinkedList.edit(4, 0);
+        mySingleLinkedList.addFront(4, 0);
         mySingleLinkedList.display();
  
     }

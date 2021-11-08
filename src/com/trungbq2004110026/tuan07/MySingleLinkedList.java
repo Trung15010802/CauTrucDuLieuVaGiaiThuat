@@ -56,6 +56,10 @@ public class MySingleLinkedList {
         // Node ban đầu.....
         Node current = head;
 
+        if(head.info == key){
+            addNodeHead(data);
+        }
+
         while (current.next != null) {
             if (current.next.info == key) {
                 Node n = new Node(data);
@@ -82,6 +86,7 @@ public class MySingleLinkedList {
         }
         while(current != null){
             if(current.next == tail){
+                tail = current;
                 current.next = null;
                 return;
             }
